@@ -1,0 +1,158 @@
+[
+ {
+   "post": "I have not paid transfer charges",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I got the loan amount from the bank",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I paid the money to get the loan offer but there has been no response from the other side",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "I did not pay any money to get the loan offer which I got in my Email",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I got loan from bank",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I do not care about getting loan from anywhere",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I did not transfer any money to get the loan offer which I saw on locanto",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I have not paid processsing fees",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "no loan fraud",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "loan fraud",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "paid loan fees",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "I paid the transaction fees to get the loan but the company has not sent me the loan money yet",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "I have not paid transaction charges",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I do not need loan , I am very rich",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I have not paid transaction fees",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "i paid money to get the loan offer which I got in my Email",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "I got the loan money from the bank",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I did not transfer any money to get the loan offer",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I have not paid any advance fees",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I paid money to get the low interest loan offer ",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "paid transaction fees",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "I paid money to get the loan offer which I saw on online classified websites",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "I paid the money to get the loan but the company is not responding",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "I paid money to get the loan offer which I saw on quickr",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "paid processing fees",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "money lost in loan offer",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "I paid money to get the loan offer which I saw on locanto",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "paid advance fees",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "I saw an offer for loan with very less interest rates",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I paid money to get the loan offer which I saw on OLX",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "I did not pay any money to get the loan offer which had very low interest rates",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I paid money to get the loan",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "paid transfer charges",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "I have already transferred the advance fees to get the loan money but there has been no communication from the company afterwards",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "I did not transfer any money to get the loan offer which I saw on OLX",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I did not transfer any money to get the loan offer which I saw on quickr",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I paid the the processing fees to get the loan amount but the company is not answering my queries",
+   "intent": "loan_fraud"
+ },
+ {
+   "post": "I have not paid loan fees",
+   "intent": "no_loan_fraud"
+ },
+ {
+   "post": "I did not pay any money to get the loan offer which I saw on online classified websites",
+   "intent": "no_loan_fraud"
+ }
+]

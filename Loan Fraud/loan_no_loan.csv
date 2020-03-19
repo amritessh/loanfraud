@@ -1,0 +1,40 @@
+post,intent
+I have not paid transfer charges,no_loan_fraud
+I got the loan amount from the bank,no_loan_fraud
+I paid the money to get the loan offer but there has been no response from the other side,loan_fraud
+I did not pay any money to get the loan offer which I got in my Email,no_loan_fraud
+I got loan from bank,no_loan_fraud
+I do not care about getting loan from anywhere,no_loan_fraud
+I did not transfer any money to get the loan offer which I saw on locanto,no_loan_fraud
+I have not paid processsing fees,no_loan_fraud
+no loan fraud,no_loan_fraud
+loan fraud,loan_fraud
+paid loan fees,loan_fraud
+I paid the transaction fees to get the loan but the company has not sent me the loan money yet,loan_fraud
+I have not paid transaction charges,no_loan_fraud
+"I do not need loan , I am very rich",no_loan_fraud
+I have not paid transaction fees,no_loan_fraud
+i paid money to get the loan offer which I got in my Email,loan_fraud
+I got the loan money from the bank,no_loan_fraud
+I did not transfer any money to get the loan offer,no_loan_fraud
+I have not paid any advance fees,no_loan_fraud
+I paid money to get the low interest loan offer ,loan_fraud
+paid transaction fees,loan_fraud
+I paid money to get the loan offer which I saw on online classified websites,loan_fraud
+I paid the money to get the loan but the company is not responding,loan_fraud
+I paid money to get the loan offer which I saw on quickr,loan_fraud
+paid processing fees,loan_fraud
+money lost in loan offer,loan_fraud
+I paid money to get the loan offer which I saw on locanto,loan_fraud
+paid advance fees,loan_fraud
+I saw an offer for loan with very less interest rates,no_loan_fraud
+I paid money to get the loan offer which I saw on OLX,loan_fraud
+I did not pay any money to get the loan offer which had very low interest rates,no_loan_fraud
+I paid money to get the loan,loan_fraud
+paid transfer charges,loan_fraud
+I have already transferred the advance fees to get the loan money but there has been no communication from the company afterwards,loan_fraud
+I did not transfer any money to get the loan offer which I saw on OLX,no_loan_fraud
+I did not transfer any money to get the loan offer which I saw on quickr,no_loan_fraud
+I paid the the processing fees to get the loan amount but the company is not answering my queries,loan_fraud
+I have not paid loan fees,no_loan_fraud
+I did not pay any money to get the loan offer which I saw on online classified websites,no_loan_fraud
